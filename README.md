@@ -4,3 +4,6 @@ sub_find finds the
 [+] ip adress
 [+] issuer 
 [+] reverse_dns
+
+
+it uses the dnsdumpster API 
