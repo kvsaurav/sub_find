@@ -1,4 +1,4 @@
-#test1 for dnsdumpster 
+ 
 #python2
 
 import dnsdumpster
@@ -8,11 +8,6 @@ from dnsdumpster.DNSDumpsterAPI import DNSDumpsterAPI #USING DNSDUMPSTER.COM API
 print "ENTER DOMAIN TO BE SEARCHED"
 g= raw_input('')
 res = DNSDumpsterAPI({'verbose': True}).search(g)
-
-#print res.keys()
-
-#print res['dns_records']['host']
-# print res
 
 print res.keys() 
 
