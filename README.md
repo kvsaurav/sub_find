@@ -16,6 +16,8 @@ it uses the dnsdumpster API
 RAUNNING THE PROGRAM 
 
 step1 == pip install requirments.txt
+
+
 step2 == python sub_find.py
 
 
