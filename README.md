@@ -1,2 +1,6 @@
 # sub_find
-subfind finds the subdomain their domain , ip adress the issuer and the reverse_dns
+sub_find finds the 
+[+] subdomain
+[+] ip adress
+[+] issuer 
+[+] reverse_dns
